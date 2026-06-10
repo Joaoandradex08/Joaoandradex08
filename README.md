@@ -10,20 +10,22 @@ Sou João Andrade, e desde criança sou um amante da tecnologia. Hoje sou progra
 <br>
 
 Estou realizando curso FullStack e de IA no
+<br>
   <a href="https://aulas.devclub.com.br">
     <img width="50" height="50" alt="logo-devclub" src="https://github.com/user-attachments/assets/be6b92be-66a4-409e-931f-55cae5be5406" />
   </a>
 
   <br>
+  <br>
 
   Meu Linkedin
+  <br>
     <a href="https://www.linkedin.com/in/joãoandrade-ads/">
       <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ec750099-18e1-4bde-a7b6-673267feea15" />
     </a>
 <br>
 <br>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Joaoandradex08)](https://github.com/ryo-ma/github-profile-trophy)
     
     
 
