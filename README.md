@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou João de Andrade!</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-end em evolução para Full Stack
+  💻 Desenvolvedor Full Stack
 </p>
 
 <p align="center">
